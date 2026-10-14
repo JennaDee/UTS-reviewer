@@ -55,21 +55,3 @@ Use **Profiles & settings → Export backup** to download all profiles. **Import
 - `src/backup.js`: backup validation and import normalization.
 
 Only repository maintainers update educational material through Git. Keep question and section IDs stable for existing progress. Source changes should be reviewed against the PDF and approved bank before release; do not add unsourced questions. Run the content validator, tests, and production build after changes. The browser has no educational content authoring controls.
-
-## Deploy to GitHub Pages
-
-1. Create a GitHub repository and push this project, including the lockfile and `.github/workflows/pages.yml`. Do not commit `node_modules` or `dist`.
-2. In the repository's **Settings → Pages**, choose **GitHub Actions** as the build/deployment source.
-3. Run the **Deploy static UTS Study Hub** workflow, or push to `main`.
-4. Open the Pages URL reported by the deployment job.
-
-The included workflow runs `npm ci`, unit tests, and the production build, then uploads `dist`. Vite's relative base (`./`) supports repository subpaths. The app does not require rewrite rules or environment variables.
-
-## Deploy to Vercel
-
-1. Push the project to a Git repository and import it in Vercel.
-2. Select the **Vite** framework preset.
-3. Set install command to `npm ci`, build command to `npm run build`, and output directory to `dist`.
-4. Deploy. No database, server functions, secrets, or environment variables are needed.
-
-`vercel.json` includes these build/output settings. Learner data stays in each visitor's browser. Deploying the site does not upload their progress.
