@@ -1,0 +1,61 @@
+{
+  "philosophy": {
+    "Socrates": 1,
+    "Plato": 2,
+    "Aristotle": 3,
+    "St. Augustine": 4,
+    "Descartes": 5,
+    "Locke": 6,
+    "Hume": 7,
+    "Kant": 8,
+    "Freud (Philosophy)": 9,
+    "Ryle": 10,
+    "Churchland": 11,
+    "Merleau-Ponty": 12,
+    "Comparison": 4
+  },
+  "society": {
+    "Sociological Perspective": 1,
+    "Traditional View": 2,
+    "Social Constructivism": 2,
+    "Marcel Mauss": 3,
+    "Family": 4,
+    "Gender and Self": 4,
+    "Gerry Lanuza": 5,
+    "George Herbert Mead": 5,
+    "Charles Horton Cooley": 5,
+    "Modern Society": 6,
+    "Postmodern Society": 6,
+    "Jean Baudrillard": 6,
+    "Comparison": 2
+  },
+  "anthropology": {
+    "Anthropology": 1,
+    "Clifford Geertz": 1,
+    "Robbins": 1,
+    "Edward Tylor": 2,
+    "Martin Sökefeld": 2,
+    "Social Anthropology": 2,
+    "Peacock": 2,
+    "Egocentric Self": 3,
+    "Sociocentric Self": 3,
+    "Christie Kiefer": 3,
+    "Francis Hsu": 3,
+    "Identity Toolbox": 4,
+    "Personal Naming": 4,
+    "Arnold van Gennep": 5,
+    "Wallace and Fogelson": 5,
+    "Katherine Ewing": 5,
+    "Golubović": 5
+  },
+  "psychology": {
+    "Psychology": 1,
+    "William James": 2,
+    "Carl Rogers": 3,
+    "Donald Winnicott": 4,
+    "Albert Bandura": 5,
+    "Carl Jung": 6,
+    "Sigmund Freud (Psychology)": 7,
+    "Erik Erikson": 8
+  }
+}

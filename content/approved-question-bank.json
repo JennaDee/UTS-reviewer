@@ -1,0 +1,2671 @@
+{
+  "schemaVersion": 1,
+  "subject": {
+    "id": "uts",
+    "title": "Understanding the Self",
+    "lessons": [
+      {
+        "id": "philosophy",
+        "title": "Philosophical Perspectives of the Self",
+        "sourcePages": "pp. 1–5"
+      },
+      {
+        "id": "society",
+        "title": "The Self, Society, and Culture",
+        "sourcePages": "pp. 5–7"
+      },
+      {
+        "id": "anthropology",
+        "title": "Anthropological Conceptualization of the Self",
+        "sourcePages": "pp. 7–9"
+      },
+      {
+        "id": "psychology",
+        "title": "Psychological Perspectives of the Self",
+        "sourcePages": "pp. 9–11"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "uts-philosophy-001",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Socrates",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "According to Socrates, what does philosophy mean?",
+      "options": [
+        "Search for pleasure",
+        "Love of wealth",
+        "Love of wisdom",
+        "Study of government"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Socrates connects philosophy with the love of wisdom and knowing oneself.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-002",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Socrates",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which method uses questioning to pursue self-knowledge?",
+      "options": [
+        "Golden Mean",
+        "Eliminative Materialism",
+        "Theory of Recollection",
+        "Socratic Method"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The Socratic Method relies on probing questions and self-examination.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-003",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Socrates",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A student repeatedly questions their motives before choosing a course of action. Which thinker best matches this?",
+      "options": [
+        "Churchland",
+        "Socrates",
+        "Hume",
+        "Baudrillard"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Socrates emphasizes introspection and examining one's decisions.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-004",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Socrates",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "In Socrates' account, what is the true self?",
+      "options": [
+        "The body alone",
+        "The soul",
+        "Social status",
+        "Possessions"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The notes describe the soul as immortal and distinct from the body.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-005",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Plato",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which part of Plato's soul seeks logical truth?",
+      "options": [
+        "Spirit",
+        "Unconscious",
+        "Appetite",
+        "Reason"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Reason thinks logically and seeks truth.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-006",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Plato",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which part of Plato's soul is associated with courage and determination?",
+      "options": [
+        "Appetite",
+        "Spirit",
+        "Sensitive soul",
+        "Reason"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Spirit generates courage, ambition, and determination.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-007",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Plato",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Someone buys expensive items purely for pleasure despite needing to save. Which part of Plato's soul dominates?",
+      "options": [
+        "Spirit",
+        "Noumenal self",
+        "Reason",
+        "Appetite"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Appetite pursues pleasure and physical satisfaction.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-008",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Plato",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "In Plato's model of a healthy self, which arrangement creates harmony?",
+      "options": [
+        "All three parts act without guidance",
+        "Appetite guides reason and spirit",
+        "Spirit suppresses all thought",
+        "Reason guides, spirit supports, appetite is controlled"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The notes explain that reason guides, spirit supports it, and appetite is regulated.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-009",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Plato",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is Plato's Theory of Recollection?",
+      "options": [
+        "Learning is remembering knowledge the soul already possessed",
+        "A person's identity is their memories",
+        "Knowledge comes only from the senses",
+        "Every perception is unrelated"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Plato holds that the soul knew truths before embodiment and learning recalls them.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-010",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Plato",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A learner realizes that familiar appearances can conceal deeper truths. Which image from Plato fits?",
+      "options": [
+        "The blank slate",
+        "The generalized other",
+        "The looking-glass self",
+        "Leaving the cave"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Plato's cave illustrates movement beyond appearances through education.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-011",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Aristotle",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does Aristotle say about body and soul?",
+      "options": [
+        "They are entirely independent substances",
+        "Only the soul exists",
+        "They form a unity",
+        "Only the brain exists"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Aristotle treats the self as a unity of body and soul.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-012",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Aristotle",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which type of soul allows human reasoning and moral decision-making?",
+      "options": [
+        "Nutritive soul",
+        "Sensitive soul",
+        "Rational soul",
+        "Appetitive soul"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The rational soul enables reflection, reasoning, and moral choice.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-013",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Aristotle",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is eudaimonia in the notes?",
+      "options": [
+        "Human flourishing",
+        "Temporary pleasure",
+        "A blank mind",
+        "An immortal form"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Eudaimonia is the goal of life achieved through fulfilling human capacities.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-014",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Aristotle",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A student practices honesty repeatedly rather than merely knowing it is right. Which Aristotelian principle is shown?",
+      "options": [
+        "The mind begins as a blank slate",
+        "Virtue develops through habit",
+        "Identity is a bundle",
+        "Learning is recollection"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Aristotle holds that virtue requires habitual practice.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-015",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Aristotle",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Which choice illustrates Aristotle's Golden Mean?",
+      "options": [
+        "Workaholism instead of diligence",
+        "Recklessness instead of courage",
+        "Courage between cowardice and recklessness",
+        "Wastefulness instead of generosity"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Golden Mean locates virtue between excess and deficiency.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-016",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "St. Augustine",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "According to Augustine, where does lasting fulfillment ultimately rest?",
+      "options": [
+        "In possessions",
+        "In wealth",
+        "In appearances",
+        "In God"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The notes stress the soul's relationship with God over temporary satisfactions.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-017",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "St. Augustine",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A student considers whether going to a party aligns with their spiritual nature rather than short-term enjoyment. Which thinker fits?",
+      "options": [
+        "St. Augustine",
+        "Gilbert Ryle",
+        "David Hume",
+        "John Locke"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Augustine emphasizes inward reflection, God, and higher fulfillment.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-018",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "St. Augustine",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which practices does Augustine associate with self-reflection?",
+      "options": [
+        "Imitating social roles",
+        "Prayer and confession",
+        "Buying symbolic products",
+        "Only experimentation"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The notes cite prayer and confession as ways to recognize desires and weaknesses.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-019",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Descartes",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does “Cogito, ergo sum” mean?",
+      "options": [
+        "I feel, therefore I am",
+        "I think, therefore I am",
+        "I remember, therefore I am",
+        "I consume, therefore I am"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Descartes treats thinking as the indubitable proof of one's existence.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-020",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Descartes",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is res cogitans?",
+      "options": [
+        "Society's expectations",
+        "The physical body",
+        "The hidden appetite",
+        "The thinking mind"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Res cogitans names the thinking substance in Cartesian dualism.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-021",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Descartes",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is res extensa?",
+      "options": [
+        "The rational soul",
+        "A bundle of perceptions",
+        "The thinking mind",
+        "The physical body that occupies space"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Res extensa is the extended or physical substance.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-022",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Descartes",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A person wonders whether their classroom experience is merely a dream. Which Descartes argument are they using?",
+      "options": [
+        "Golden Mean",
+        "Looking-Glass Self",
+        "Rite of Passage",
+        "Dream Argument"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The Dream Argument asks how we can distinguish waking experience from dreaming.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-023",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Locke",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does tabula rasa describe?",
+      "options": [
+        "An immortal soul",
+        "The mind as a blank slate at birth",
+        "The soul's knowledge of Forms",
+        "The brain as the self"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Locke describes the newborn mind as a blank slate shaped by experience.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-024",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Locke",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which two concepts are key to Locke's personal identity?",
+      "options": [
+        "Culture and ritual",
+        "Brain and neurons",
+        "Consciousness and memory",
+        "Appetite and spirit"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The notes link identity continuity to consciousness and memory.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-025",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Locke",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Someone connects their childhood experiences to their present sense of identity by remembering them. Who is most relevant?",
+      "options": [
+        "John Locke",
+        "Gilbert Ryle",
+        "David Hume",
+        "Paul Churchland"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Locke uses memory to connect past and present personal identity.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-026",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Hume",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is the Bundle Theory of the Self?",
+      "options": [
+        "The self is identical to rational thought",
+        "The self is a changing bundle of perceptions",
+        "The self is an unchanging soul",
+        "The self is only social roles"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Hume rejects a single permanent self in favor of changing perceptions.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-027",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Hume",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A person says, “I cannot find a permanent inner me, only changing feelings and experiences.” Who best matches this?",
+      "options": [
+        "St. Augustine",
+        "René Descartes",
+        "Plato",
+        "David Hume"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Hume characterizes the self as successive changing perceptions.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-028",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Kant",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does Kant's transcendental unity of apperception refer to?",
+      "options": [
+        "Only the physical body's movements",
+        "A collection of unrelated perceptions",
+        "A unifying consciousness that brings experiences together",
+        "Learning entirely from birth memories"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Kant argues a unified “I” makes experience coherent.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-029",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Kant",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which of Kant's selves is described as deeper and unknowable through the senses?",
+      "options": [
+        "False self",
+        "Noumenal self",
+        "Material self",
+        "Empirical self"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The notes contrast the noumenal self with the empirical self.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-030",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Freud (Philosophy)",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which level of Freud's mind contains hidden feelings and desires?",
+      "options": [
+        "Unconscious",
+        "Conscious",
+        "Preconscious",
+        "Empirical"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The unconscious includes deeply hidden feelings and desires.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-031",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Freud (Philosophy)",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which structure of Freud's personality acts as the moral conscience?",
+      "options": [
+        "Ego",
+        "Id",
+        "Superego",
+        "Appetite"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The superego represents moral standards.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-032",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Freud (Philosophy)",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which structure balances instinctual desires with reality?",
+      "options": [
+        "Superego",
+        "Spirit",
+        "Id",
+        "Ego"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The ego mediates between desires and reality.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-033",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Freud (Philosophy)",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A person accidentally says a name linked to a concealed feeling. What concept is illustrated?",
+      "options": [
+        "Tabula rasa",
+        "Golden Mean",
+        "Theory of Recollection",
+        "Freudian slip"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "A Freudian slip is described as an unconscious feeling surfacing in speech.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-034",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Ryle",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which phrase describes the dualism Gilbert Ryle criticized?",
+      "options": [
+        "Blank slate",
+        "Ghost in the machine",
+        "Realm of Forms",
+        "Unifying apperception"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Ryle rejected the idea of a separate inner ghost controlling the body.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-035",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Ryle",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A researcher studies a person's actions to understand their self rather than searching for an invisible mind-substance. Which view fits?",
+      "options": [
+        "Descartes' dualism",
+        "Gilbert Ryle's behaviorism",
+        "Plato's recollection",
+        "Augustine's spirituality"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Ryle relates understanding the self to patterns of behavior and action.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-036",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Churchland",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which theory rejects everyday “folk psychology” as an adequate theory of mental states?",
+      "options": [
+        "Golden Mean",
+        "Bundle Theory",
+        "Eliminative Materialism",
+        "Social Constructivism"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Churchland's eliminative materialism challenges common-sense folk psychology.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-037",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Churchland",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "According to Churchland in the notes, the self consists primarily of what?",
+      "options": [
+        "Brain activity and neural processes",
+        "An immaterial ghost",
+        "An eternal Realm of Forms",
+        "Only social roles"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Churchland ties the self to brain processes.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-038",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Merleau-Ponty",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does Merleau-Ponty emphasize in understanding the self?",
+      "options": [
+        "Embodied perception of the world",
+        "An entirely separate soul",
+        "Consumption symbols",
+        "Memory alone"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The self is embodied; perception and bodily experience matter.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-039",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Merleau-Ponty",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Changing someone's bodily experiences changes how they encounter the world. Which philosopher most directly addresses this?",
+      "options": [
+        "David Hume",
+        "John Locke",
+        "Maurice Merleau-Ponty",
+        "Plato"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Merleau-Ponty's phenomenology stresses the lived body as active in perception.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-philosophy-040",
+      "subjectId": "uts",
+      "lessonId": "philosophy",
+      "topic": "Comparison",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Which contrast correctly distinguishes Locke and Hume?",
+      "options": [
+        "Both reject consciousness entirely",
+        "Locke denies experience; Hume insists on an immortal soul",
+        "Both identify the self only with the brain",
+        "Locke emphasizes memory continuity; Hume emphasizes changing perceptions"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Locke associates identity with memory; Hume questions a permanent self.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Philosophical Perspectives of the Self",
+        "pages": "pp. 1–5"
+      }
+    },
+    {
+      "id": "uts-society-001",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Sociological Perspective",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which social science studies human groups, institutions, and social structures?",
+      "options": [
+        "Political Science",
+        "Economics",
+        "Sociology",
+        "Psychology"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Sociology studies social groups, institutions, and structures.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-002",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Sociological Perspective",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which discipline studies production, distribution, and consumption?",
+      "options": [
+        "Psychology",
+        "Sociology",
+        "Economics",
+        "Anthropology"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Economics examines these resource-related activities.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-003",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Traditional View",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which view describes the self as separate, self-contained, consistent, and private?",
+      "options": [
+        "Social constructivist view",
+        "Bundle Theory",
+        "Looking-Glass Self",
+        "Traditional or independent view"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The notes list those four features for the traditional view.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-004",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Social Constructivism",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "How does the social constructivist view describe the self?",
+      "options": [
+        "Fixed from birth",
+        "Completely reducible to possessions",
+        "Dynamic and shaped through social interaction",
+        "Entirely isolated from others"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The social constructivist self changes through ongoing interaction.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-005",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Social Constructivism",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Someone adopts different habits through friends, work, and online communities. Which perspective explains this?",
+      "options": [
+        "Cartesian dualism",
+        "Independent view alone",
+        "Social constructivist view",
+        "Rational soul"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Social interactions continually shape identity.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-006",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Marcel Mauss",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does Mauss' “moi” refer to?",
+      "options": [
+        "Moral conscience",
+        "Personal identity and individuality",
+        "Purchasing behavior",
+        "Social roles and institutions"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Moi refers to one's basic personal sense of identity.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-007",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Marcel Mauss",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does Mauss' “personne” refer to?",
+      "options": [
+        "Only biological given-ness",
+        "An unknowable self",
+        "Unconscious desires",
+        "Social identity and roles"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Personne refers to social roles, norms, and expectations.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-008",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Marcel Mauss",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A student uses “po” and “opo” when speaking respectfully to elders. What does this illustrate?",
+      "options": [
+        "A Freudian slip",
+        "Cultural expression of social roles and respect",
+        "Transcendental apperception",
+        "An unchanging private self alone"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The notes use Filipino honorifics to demonstrate socially shaped identity.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-009",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Family",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Why is family central to the development of self in the notes?",
+      "options": [
+        "It removes all personal choice",
+        "It has no role in social learning",
+        "It determines only our appearance",
+        "It is our first social world"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Family initially shapes values, roles, expectations, and identity.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-010",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Gender and Self",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What important qualification do the notes make about gender expectations?",
+      "options": [
+        "Expectations are never changeable",
+        "Learning an expectation does not require accepting it",
+        "Identity is always imposed permanently",
+        "Society has no influence on identity"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A person may learn social expectations without adopting them.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-011",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Gerry Lanuza",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What reciprocal relationship does Lanuza describe?",
+      "options": [
+        "Only society shapes us",
+        "Neither affects the other",
+        "Society shapes us, and we shape society",
+        "Only individuals shape society"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Lanuza emphasizes mutual influence between individuals and the social world.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-012",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Gerry Lanuza",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What possibility and risk accompany identity choice in modernity according to the notes?",
+      "options": [
+        "No freedom of choice",
+        "Self-realization alongside alienation",
+        "Only guaranteed happiness",
+        "An unchanging identity"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Modern choice may enable self-realization but also alienation.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-013",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "George Herbert Mead",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which stage involves imitation without understanding?",
+      "options": [
+        "Incorporation stage",
+        "Play stage",
+        "Preparatory stage",
+        "Game stage"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Mead's preparatory stage centers on imitation.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-014",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "George Herbert Mead",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which stage involves taking the role of another person?",
+      "options": [
+        "Play stage",
+        "Liminal stage",
+        "Preparatory stage",
+        "Game stage"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Role-taking characterizes Mead's play stage.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-015",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "George Herbert Mead",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which stage involves understanding multiple roles and expectations?",
+      "options": [
+        "Game stage",
+        "Preparatory stage",
+        "Separation stage",
+        "Play stage"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The game stage coordinates multiple roles and social expectations.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-016",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "George Herbert Mead",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is the generalized other?",
+      "options": [
+        "A particular childhood friend",
+        "Internalized expectations of the wider group or society",
+        "A permanent private soul",
+        "One's biological characteristics"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The generalized other reflects broader social expectations.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-017",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "George Herbert Mead",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A child organizes a group game by understanding teammates' and opponents' roles. Which stage is this?",
+      "options": [
+        "Liminality",
+        "Play stage",
+        "Game stage",
+        "Preparatory stage"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Mead's game stage includes awareness of coordinated roles.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-018",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Charles Horton Cooley",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is the first step of Cooley's Looking-Glass Self?",
+      "options": [
+        "Developing feelings about ourselves",
+        "Imagining how others see us",
+        "Ignoring others' opinions",
+        "Choosing a social status symbol"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The process starts with imagining one's appearance to others.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-019",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Charles Horton Cooley",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What happens after imagining others' judgment in the Looking-Glass Self?",
+      "options": [
+        "We lose all self-awareness",
+        "We enter the preparatory stage",
+        "We become independent of society",
+        "We develop feelings about ourselves based on that imagined judgment"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The imagined judgment influences self-feelings.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-020",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Charles Horton Cooley",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A student imagines classmates see them as capable, imagines their approval, and feels confident. Which theory is illustrated?",
+      "options": [
+        "Bundle Theory",
+        "Eliminative Materialism",
+        "Looking-Glass Self",
+        "Theory of Recollection"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Cooley describes identity as influenced by imagined perceptions and judgments.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-021",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Modern Society",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does modern society emphasize according to the notes?",
+      "options": [
+        "Identity through brands exclusively",
+        "Rejection of organization",
+        "Only fluid identity and diverse truths",
+        "Stability, institutions, structure, and progress"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Modern society is associated with industrialization, institutions, and order.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-022",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Postmodern Society",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does postmodern society emphasize?",
+      "options": [
+        "One fixed identity",
+        "One universal life path",
+        "Flexibility, diversity, and change",
+        "Unchanging social roles"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The notes characterize postmodern society as flexible and changing.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-023",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Jean Baudrillard",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does Baudrillard mean by consuming meanings?",
+      "options": [
+        "Culture forbids product symbols",
+        "Products can symbolize status and identity",
+        "People buy things only for biological need",
+        "Consumption has no social meaning"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Products carry symbolic meanings beyond utility.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-024",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Jean Baudrillard",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Someone buys an expensive brand primarily to signal prestige. Which sociologist's idea applies?",
+      "options": [
+        "Marcel Mauss",
+        "Gerry Lanuza",
+        "George Herbert Mead",
+        "Jean Baudrillard"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Baudrillard discusses products as status and identity symbols.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-society-025",
+      "subjectId": "uts",
+      "lessonId": "society",
+      "topic": "Comparison",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Which distinction best contrasts moi and personne?",
+      "options": [
+        "Moi means group expectations; personne means only biology",
+        "Moi concerns personal individuality; personne concerns socially defined roles",
+        "Moi concerns wealth; personne concerns hunger",
+        "Both mean exactly the same thing"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Mauss separates personal identity from social identity and roles.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "The Self, Society, and Culture",
+        "pages": "pp. 5–7"
+      }
+    },
+    {
+      "id": "uts-anthropology-001",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Anthropology",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does anthropology study in the notes?",
+      "options": [
+        "Only mental processes",
+        "Only government and laws",
+        "Only supply and demand",
+        "Humans, cultures, and interaction with environments"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Anthropology studies humans and culture and their interactions with environments.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-002",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Anthropology",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "How do the notes characterize the self from an anthropological perspective?",
+      "options": [
+        "Exactly identical across all societies",
+        "Independent of symbols and practices",
+        "Culturally constructed and variable across societies",
+        "Only determined by brain tissue"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Anthropology emphasizes cultural variation in selfhood.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-003",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Clifford Geertz",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "For Geertz, what does culture provide?",
+      "options": [
+        "A single permanent identity",
+        "Meaning and guidance for human experience",
+        "An absence of social norms",
+        "Only genetic traits"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Geertz treats culture as systems of meanings and guidance.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-004",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Clifford Geertz",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Geertz's view of culture extends beyond traditions to include what?",
+      "options": [
+        "Only economics",
+        "Only individual memory",
+        "Only bodily reflexes",
+        "Rules and instructions for life"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Culture provides guidance, not just visible behaviors.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-005",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Robbins",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "According to Robbins (2012), humans give meaning to which kinds of things?",
+      "options": [
+        "Only objects",
+        "Only religious rituals",
+        "Only language",
+        "Objects, people, behaviors, emotions, and events"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Humans create meanings across many aspects of experience.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-006",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Edward Tylor",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which thinker defined culture as a complex whole of knowledge, beliefs, art, morals, laws, and customs?",
+      "options": [
+        "Jean Baudrillard",
+        "Albert Bandura",
+        "Edward Tylor",
+        "John Locke"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Tylor's definition includes those broad cultural components.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-007",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Martin Sökefeld",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is a key claim attributed to Martin Sökefeld?",
+      "options": [
+        "The self is entirely separate from society",
+        "The brain alone creates social roles",
+        "The self is a cultural concept",
+        "All cultures define identity identically"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The meaning of self varies with cultural beliefs.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-008",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Social Anthropology",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does ethnic identity refer to?",
+      "options": [
+        "Belonging to an ethnic or cultural group",
+        "Purchasing expensive goods",
+        "A person's memory capacity",
+        "Being free of all social affiliation"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Ethnic identity involves affiliation with a cultural or ethnic group.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-009",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Peacock",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Someone makes personal choices while still being influenced by their historical and cultural environment. Whose idea fits?",
+      "options": [
+        "Ryle",
+        "Freud",
+        "Peacock",
+        "Descartes"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Peacock describes individuals as both free and culturally molded.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-010",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Egocentric Self",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "How is the egocentric self described?",
+      "options": [
+        "Defined only by family hierarchy",
+        "Unable to act independently",
+        "Independent, unique, and responsible for its actions",
+        "Without any personal agency"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The egocentric model emphasizes individual independence and responsibility.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-011",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Sociocentric Self",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "How is the sociocentric self described?",
+      "options": [
+        "Only a physical brain",
+        "Entirely isolated from groups",
+        "Defined by social relationships and roles",
+        "Only an unchanging soul"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The sociocentric view emphasizes roles and relationships.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-012",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Sociocentric Self",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A person describes themselves mainly through family duty and community belonging. Which model fits best?",
+      "options": [
+        "Cartesian cogito",
+        "Sociocentric self",
+        "Egocentric self",
+        "Empirical self"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The sociocentric model stresses relational belonging.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-013",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Christie Kiefer",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which society is associated with Kiefer's sociocentric example in the notes?",
+      "options": [
+        "Japanese society",
+        "Scottish society",
+        "Ancient Greek society",
+        "French society"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The notes use Japanese social harmony and group belonging as Kiefer's example.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-014",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Francis Hsu",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which cultural influence is stressed in Hsu's example of the Chinese self?",
+      "options": [
+        "The Theory of Forms",
+        "Cartesian dualism",
+        "Confucian values, family, and hierarchy",
+        "Only personal consumption"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Hsu's example highlights Confucian relationships and responsibility.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-015",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Identity Toolbox",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is an identity toolbox?",
+      "options": [
+        "An exam grading method",
+        "A set of physical instruments",
+        "Identity features selected or emphasized in building a social self",
+        "A fixed genetic code"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "An identity toolbox includes features a person emphasizes socially.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-016",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Identity Toolbox",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which pair is presented as potentially chosen aspects of identity?",
+      "options": [
+        "Age and parents only",
+        "Career and beliefs",
+        "Birthright and birthplace only",
+        "Birth family and assigned race"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The notes contrast chosen aspects like career and beliefs with assigned aspects.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-017",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Personal Naming",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does personal naming help establish?",
+      "options": [
+        "Birthright, belonging, and social identity",
+        "The rational soul",
+        "Self-efficacy",
+        "Only memory continuity"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The notes describe naming as marking belonging and identity.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-018",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Personal Naming",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which group is used to illustrate formal naming and recognition of social membership?",
+      "options": [
+        "Modern factory workers",
+        "French philosophers",
+        "Aymara Indians",
+        "Ancient Athenians"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The Aymara example links formal naming to full societal membership.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-019",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Arnold van Gennep",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is the first phase of van Gennep's rite of passage?",
+      "options": [
+        "Separation",
+        "Liminality",
+        "Individuation",
+        "Incorporation"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Separation involves leaving a former status or familiar position.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-020",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Arnold van Gennep",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is liminality?",
+      "options": [
+        "Initial departure from a former status",
+        "The in-between transition phase",
+        "A fixed social identity",
+        "Final acceptance into a new status"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Liminality is the transitional middle phase.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-021",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Arnold van Gennep",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is incorporation?",
+      "options": [
+        "Leaving familiar ground",
+        "An unsettled in-between period",
+        "Acceptance into the new status",
+        "Rejecting all social ties"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Incorporation marks entry into the new status.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-022",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Arnold van Gennep",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A graduate is formally welcomed into a new professional community. Which phase is illustrated?",
+      "options": [
+        "Liminality",
+        "Preparatory stage",
+        "Separation",
+        "Incorporation"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Formal acceptance into the new role is incorporation.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-023",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Wallace and Fogelson",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "How do Wallace and Fogelson characterize identity struggles?",
+      "options": [
+        "Proof that identity never changes",
+        "A purely biological reflex",
+        "The absence of any cultural influence",
+        "Conflicts in self-perception and cultural expectations"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Identity struggles arise when cultural expectations and self-perception conflict.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-024",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Katherine Ewing",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does Ewing's illusion of wholeness address?",
+      "options": [
+        "An exclusively material self",
+        "Multiple self-identities and conflicts among cultural models",
+        "One identity that never changes",
+        "Only economic inequality"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Ewing discusses different identities and tensions across contexts.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-anthropology-025",
+      "subjectId": "uts",
+      "lessonId": "anthropology",
+      "topic": "Golubović",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A student resists a limiting stereotype and reflects on their own values. Which recommendation does this fit?",
+      "options": [
+        "Golubović's approach to building a strong self",
+        "The pleasure principle",
+        "The Dream Argument",
+        "Res extensa"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Golubović recommends resisting labels, questioning restrictive traditions, and building awareness.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Anthropological Conceptualization of the Self",
+        "pages": "pp. 7–9"
+      }
+    },
+    {
+      "id": "uts-psychology-001",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Psychology",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does psychology study?",
+      "options": [
+        "Only government power",
+        "Only rites of passage",
+        "Behavior and mental processes",
+        "Only production and consumption"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Psychology studies behavior and mental processes.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-002",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "William James",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is James' I-self?",
+      "options": [
+        "A false social mask",
+        "The objective self as known",
+        "Only material possessions",
+        "The subjective, thinking and experiencing self"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The I-self is the subjective knower and experiencer.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-003",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "William James",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is James' Me-self?",
+      "options": [
+        "The irrational appetite",
+        "The objective self that can be known",
+        "Only the thinking subject",
+        "The hidden unconscious"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The Me-self is the self as known and shaped through experience.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-004",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "William James",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which three components make up James' Me-self in the notes?",
+      "options": [
+        "Material, social, and spiritual",
+        "Conscious, preconscious, and unconscious",
+        "Reason, spirit, and appetite",
+        "Id, ego, and superego"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The notes name the material, social, and spiritual selves.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-005",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "William James",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Someone reflects on their body and possessions as part of identity. Which part of James' Me-self fits?",
+      "options": [
+        "Spiritual self",
+        "Material self",
+        "I-self",
+        "Social self"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The material self includes the body and possessions.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-006",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "William James",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Someone considers how classmates perceive them. Which part of James' Me-self fits?",
+      "options": [
+        "Spiritual self",
+        "Rational soul",
+        "Material self",
+        "Social self"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The social self concerns how others perceive us.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-007",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Rogers",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is self-concept according to Rogers?",
+      "options": [
+        "The set of social rituals",
+        "Only the physical body",
+        "Our perception of ourselves",
+        "A theory of memory continuity"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Self-concept is how we perceive ourselves.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-008",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Rogers",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is the real self?",
+      "options": [
+        "Our social mask only",
+        "What others purchase",
+        "Who we actually are",
+        "Who we aspire to be"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The real self refers to who a person actually is.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-009",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Rogers",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is the ideal self?",
+      "options": [
+        "Only our possessions",
+        "Who we currently are",
+        "A preconscious memory",
+        "Who we aspire to be"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The ideal self represents our aspirations.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-010",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Rogers",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is congruence in Rogers' theory?",
+      "options": [
+        "Alignment between real self and ideal self",
+        "A large gap between real and ideal self",
+        "Only conforming to peers",
+        "Suppressing all emotions"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Congruence is agreement between actual and aspired identity.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-011",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Rogers",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is unconditional positive regard?",
+      "options": [
+        "Praise only when someone succeeds",
+        "Acceptance and support without judgment",
+        "Ignoring someone's emotions",
+        "Rejecting anyone who differs"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "It means accepting and supporting someone without evaluative conditions.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-012",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Rogers",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "Someone's aspirations and present self-understanding strongly conflict, producing self-doubt. Which term fits?",
+      "options": [
+        "Incongruence",
+        "Reciprocal determinism",
+        "Individuation",
+        "Congruence"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "Incongruence describes a mismatch between real and ideal self.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-013",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Donald Winnicott",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does Winnicott's true self refer to?",
+      "options": [
+        "An unknowable noumenal self",
+        "Behavior solely to satisfy social expectations",
+        "Authentic and spontaneous inner desires",
+        "Publicly assigned status"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The true self is authentic and spontaneous.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-014",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Donald Winnicott",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does Winnicott's false self refer to?",
+      "options": [
+        "The rational thinking mind",
+        "A self presented to conform to expectations",
+        "The authentic spontaneous self",
+        "A biological nutritive soul"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The false self is shaped by conforming to expectations.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-015",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Donald Winnicott",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A person acts unlike themselves just to gain others' approval. Which concept fits?",
+      "options": [
+        "I-self",
+        "False self",
+        "True self",
+        "Rational soul"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The false self conforms to outside expectations.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-016",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Donald Winnicott",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What constitutes a healthy unified self in Winnicott's discussion?",
+      "options": [
+        "Discarding all social interactions",
+        "Integrating different aspects of oneself into a cohesive identity",
+        "Acting exactly the same in every situation",
+        "Suppressing all personal desires"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "A healthy self integrates different expressions of identity.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-017",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Albert Bandura",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What does self-efficacy mean?",
+      "options": [
+        "The unconscious moral conscience",
+        "Belief in one's ability to achieve goals",
+        "A phase of transition",
+        "A permanent ideal identity"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Self-efficacy is confidence in one's capacity to accomplish goals.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-018",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Albert Bandura",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is reciprocal determinism?",
+      "options": [
+        "Only environment controlling people",
+        "Interaction of personal factors, behavior, and environment",
+        "A strict separation of mind and body",
+        "Only personality determining society"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Bandura emphasizes reciprocal interactions among person, behavior, and environment.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-019",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Albert Bandura",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "A learner improves a technique after watching a classmate perform it. What process is this?",
+      "options": [
+        "Individuation",
+        "Projection",
+        "Incongruence",
+        "Observational learning"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "Bandura describes learning through observing or modeling others.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-020",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Jung",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is individuation?",
+      "options": [
+        "Taking on a new legal name",
+        "Separating body from soul",
+        "Integrating aspects of the psyche into a balanced self",
+        "Buying goods to symbolize identity"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Jung's individuation aims at self-realization through integration.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-021",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Jung",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is the persona in Jung's framework?",
+      "options": [
+        "The physical body",
+        "The social mask we wear",
+        "The hidden repressed self",
+        "Belief in capability"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Persona is the social mask presented to others.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-022",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Jung",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is the shadow in Jung's framework?",
+      "options": [
+        "The material self",
+        "Hidden or repressed aspects of the self",
+        "The ideal self",
+        "The public social mask"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "The shadow describes concealed or repressed features.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-023",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Carl Jung",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What do anima and animus signify in the notes?",
+      "options": [
+        "Feminine and masculine aspects within us",
+        "Two consumer identities",
+        "The body and soul",
+        "Two stages of psychosocial growth"
+      ],
+      "correctOptionIndex": 0,
+      "explanation": "The notes describe anima and animus as feminine and masculine aspects.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-024",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Sigmund Freud (Psychology)",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which part of personality follows the pleasure principle?",
+      "options": [
+        "Superego",
+        "Persona",
+        "Ego",
+        "Id"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The id pursues instinctual desires and pleasure.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-025",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Sigmund Freud (Psychology)",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which part of personality follows the reality principle?",
+      "options": [
+        "Superego",
+        "Id",
+        "Shadow",
+        "Ego"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The ego negotiates between desires and reality.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-026",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Sigmund Freud (Psychology)",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What do defense mechanisms such as repression, denial, and projection protect against?",
+      "options": [
+        "Social identity",
+        "The need for social belonging",
+        "Anxiety",
+        "Memory loss in all cases"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "The notes describe defense mechanisms as protections against anxiety.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-027",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Erik Erikson",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which Erikson conflict is central in adolescence?",
+      "options": [
+        "Industry vs. Inferiority",
+        "Identity vs. Role Confusion",
+        "Integrity vs. Despair",
+        "Trust vs. Mistrust"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Adolescence centers on identity formation versus role confusion.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-028",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Erik Erikson",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "What is Erikson's infancy conflict?",
+      "options": [
+        "Intimacy vs. Isolation",
+        "Autonomy vs. Shame and Doubt",
+        "Trust vs. Mistrust",
+        "Initiative vs. Guilt"
+      ],
+      "correctOptionIndex": 2,
+      "explanation": "Infancy is associated with developing trust versus mistrust.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-029",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Erik Erikson",
+      "difficulty": "recall",
+      "type": "multiple_choice",
+      "question": "Which Erikson stage centers on contributing to society in middle adulthood?",
+      "options": [
+        "Initiative vs. Guilt",
+        "Generativity vs. Stagnation",
+        "Identity vs. Role Confusion",
+        "Industry vs. Inferiority"
+      ],
+      "correctOptionIndex": 1,
+      "explanation": "Middle adulthood involves generativity versus stagnation.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    },
+    {
+      "id": "uts-psychology-030",
+      "subjectId": "uts",
+      "lessonId": "psychology",
+      "topic": "Erik Erikson",
+      "difficulty": "application",
+      "type": "multiple_choice",
+      "question": "An older adult reflects on their life with acceptance rather than regret. Which Erikson conflict is most relevant?",
+      "options": [
+        "Initiative vs. Guilt",
+        "Autonomy vs. Shame and Doubt",
+        "Intimacy vs. Isolation",
+        "Ego Integrity vs. Despair"
+      ],
+      "correctOptionIndex": 3,
+      "explanation": "The maturity stage addresses ego integrity versus despair.",
+      "source": {
+        "document": "UTS Book (2).pdf",
+        "section": "Psychological Perspectives of the Self",
+        "pages": "pp. 9–11"
+      }
+    }
+  ]
+}
