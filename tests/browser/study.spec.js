@@ -66,9 +66,11 @@ test("reading, flashcards, settings, and profiles survive reload and remain isol
   await expect(
     page.getByText("Sections read", { exact: true }).locator(".."),
   ).toContainText("0");
+  await expect(page.getByLabel("Local learner profile")).toBeHidden();
+  // Exercise retained local-profile isolation while the selector is intentionally hidden.
   await page
     .getByLabel("Local learner profile")
-    .selectOption({ label: "My study profile" });
+    .selectOption({ label: "My study profile" }, { force: true });
   await expect(page.locator("html")).toHaveAttribute("data-theme", "dark");
   await expect(page.locator("html")).toHaveAttribute("data-font", "large");
   await expect(
